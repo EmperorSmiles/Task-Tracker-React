@@ -11,6 +11,12 @@
       "day": "Friday at 3pm",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "New Task ",
+      "day": "Any day",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
