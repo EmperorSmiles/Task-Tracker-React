@@ -13,9 +13,9 @@
       "id": 2
     },
     {
-      "text": "New Task ",
-      "day": "Any day",
-      "reminder": false,
+      "text": "Practice Bass",
+      "day": "Everyday at 2pm",
+      "reminder": true,
       "id": 3
     }
   ]
